@@ -849,6 +849,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - [ ] [2. Selection](https://www.coursera.org/learn/algorithms-part1/lecture/UQxFT/selection)
     - [ ] [3. Duplicate Keys](https://www.coursera.org/learn/algorithms-part1/lecture/XvjPd/duplicate-keys)
     - [ ] [4. System Sorts](https://www.coursera.org/learn/algorithms-part1/lecture/QBNZ7/system-sorts)
+    - [x] [5. QuickSort Algorithm](https://www.youtube.com/watch?v=7h1s2SojIRw)
 
 - [ ] UC Berkeley:
     - [ ] [CS 61B Lecture 29: Sorting I (video)](https://archive.org/details/ucberkeley_webcast_EiUvYS2DT6I)
